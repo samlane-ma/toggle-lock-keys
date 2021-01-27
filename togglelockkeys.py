@@ -20,9 +20,11 @@ should have received a copy of the GNU General Public License along with this
 program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
+# Text for buttons in the popover
 CAPS = "Verr Maj  "
 NUM  = "Verr Num"
 
+# Tooltip text
 CAPS_ON  = "Verr maj marche"
 CAPS_OFF = "Verr maj arrêt"
 NUM_ON   = "Verr num marche"
