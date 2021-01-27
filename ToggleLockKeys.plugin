@@ -1,0 +1,9 @@
+ [Plugin]
+Loader=python3
+Module=togglelockkeys
+Name=Toggle Lock Keys
+Description=Toggle Lock Keys Indicator
+Authors=
+Copyright=
+Website=
+Icon=caps-lock-symbolic
